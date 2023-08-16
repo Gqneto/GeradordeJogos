@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">Gerador de Jogos Loto</string>
+        <string name="number_hint">Digite um número entre 6 e 15</string>
+        <string name="title">Boa Sorte!</string>
+        <string name="gerar_n_meros">Gerar Números</string>
+        <string name="todo">TODO</string>
+
+</resources>
