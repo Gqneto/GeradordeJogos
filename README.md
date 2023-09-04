@@ -1,5 +1,5 @@
 # GeradordeJogos
 
-Gerador de jogos de loteria,dupla-sena, mega-sena, quina,lotofácil.
-Projeto desenvolvido no Android Studio.
+Gerador de jogos de loteria,dupla-sena, mega-sena, quina,lotofácil.<br>
+Projeto desenvolvido no Android Studio.<br>
 Foi utilizado a linguagem Kotlin para o desenvolvimento do APP.
